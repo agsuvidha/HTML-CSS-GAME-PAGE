@@ -11,7 +11,7 @@ h1 {
 .header{
     background-color: cadetblue;
     display: flex;
-    justify-content: space-between;
+    justify-content: flex-start;
 }
 
 .site-description{
